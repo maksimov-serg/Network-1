@@ -1,0 +1,10 @@
+.avatar {
+  object-fit: cover;
+  margin-left: 8px;
+}
+.dropdown {
+  margin-right: 70px;
+}
+.me-2 {
+  margin-right: 5px;
+}
